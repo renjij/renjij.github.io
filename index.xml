@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Renji</title>
-    <link>http://renjij.github.io/</link>
+    <link>https://renjij.github.io/</link>
     <description>Recent content on Renji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 May 2020 21:59:13 +1200</lastBuildDate>
     
-	<atom:link href="http://renjij.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://renjij.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog2</title>
-      <link>http://renjij.github.io/post/blog2/</link>
+      <link>https://renjij.github.io/post/blog2/</link>
       <pubDate>Mon, 11 May 2020 21:59:13 +1200</pubDate>
       
-      <guid>http://renjij.github.io/post/blog2/</guid>
-      <description>nothing</description>
+      <guid>https://renjij.github.io/post/blog2/</guid>
+      <description>nothing～</description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>http://renjij.github.io/post/blog/</link>
+      <link>https://renjij.github.io/post/blog/</link>
       <pubDate>Mon, 11 May 2020 21:52:49 +1200</pubDate>
       
-      <guid>http://renjij.github.io/post/blog/</guid>
+      <guid>https://renjij.github.io/post/blog/</guid>
       <description>nothing</description>
     </item>
     

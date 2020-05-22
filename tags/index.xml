@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Renji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2020 21:52:49 +1200</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 22:59:24 +1200</lastBuildDate>
     
 	<atom:link href="https://renjij.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bacteria</title>
+      <link>https://renjij.github.io/tags/bacteria/</link>
+      <pubDate>Fri, 22 May 2020 22:59:24 +1200</pubDate>
+      
+      <guid>https://renjij.github.io/tags/bacteria/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Covid-19</title>

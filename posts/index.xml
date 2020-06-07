@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Renji</title>
-    <link>https://renjij.github.io/</link>
-    <description>Recent content on Renji</description>
+    <title>Posts on Renji</title>
+    <link>https://renjij.github.io/posts/</link>
+    <description>Recent content in Posts on Renji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 25 May 2020 17:39:57 +1200</lastBuildDate>
     
-	<atom:link href="https://renjij.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://renjij.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

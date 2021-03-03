@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Renji</title>
-    <link>https://renjij.github.io/about/</link>
+    <link>https://renji.github.io/about/</link>
     <description>Recent content in About on Renji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 May 2020 14:02:37 +0200</lastBuildDate>
     
-	<atom:link href="https://renjij.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://renji.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

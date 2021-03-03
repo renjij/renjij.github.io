@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Renji</title>
-    <link>https://renjij.github.io/tags/</link>
+    <link>https://renji.github.io/tags/</link>
     <description>Recent content in Tags on Renji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Jan 2021 00:52:49 +1200</lastBuildDate>
     
-	<atom:link href="https://renjij.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://renji.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Review</title>
-      <link>https://renjij.github.io/tags/review/</link>
+      <link>https://renji.github.io/tags/review/</link>
       <pubDate>Fri, 01 Jan 2021 00:52:49 +1200</pubDate>
       
-      <guid>https://renjij.github.io/tags/review/</guid>
+      <guid>https://renji.github.io/tags/review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Foodculture</title>
-      <link>https://renjij.github.io/tags/foodculture/</link>
+      <link>https://renji.github.io/tags/foodculture/</link>
       <pubDate>Tue, 09 Jun 2020 01:10:35 +1200</pubDate>
       
-      <guid>https://renjij.github.io/tags/foodculture/</guid>
+      <guid>https://renji.github.io/tags/foodculture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fluora</title>
-      <link>https://renjij.github.io/tags/fluora/</link>
+      <link>https://renji.github.io/tags/fluora/</link>
       <pubDate>Mon, 25 May 2020 17:39:57 +1200</pubDate>
       
-      <guid>https://renjij.github.io/tags/fluora/</guid>
+      <guid>https://renji.github.io/tags/fluora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Suzhou</title>
-      <link>https://renjij.github.io/tags/suzhou/</link>
+      <link>https://renji.github.io/tags/suzhou/</link>
       <pubDate>Mon, 25 May 2020 17:39:57 +1200</pubDate>
       
-      <guid>https://renjij.github.io/tags/suzhou/</guid>
+      <guid>https://renji.github.io/tags/suzhou/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bacteria</title>
-      <link>https://renjij.github.io/tags/bacteria/</link>
+      <link>https://renji.github.io/tags/bacteria/</link>
       <pubDate>Fri, 22 May 2020 22:59:24 +1200</pubDate>
       
-      <guid>https://renjij.github.io/tags/bacteria/</guid>
+      <guid>https://renji.github.io/tags/bacteria/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Covid-19</title>
-      <link>https://renjij.github.io/tags/covid-19/</link>
+      <link>https://renji.github.io/tags/covid-19/</link>
       <pubDate>Fri, 01 May 2020 21:52:49 +1200</pubDate>
       
-      <guid>https://renjij.github.io/tags/covid-19/</guid>
+      <guid>https://renji.github.io/tags/covid-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Documentary report</title>
-      <link>https://renjij.github.io/tags/documentary-report/</link>
+      <link>https://renji.github.io/tags/documentary-report/</link>
       <pubDate>Fri, 01 May 2020 21:52:49 +1200</pubDate>
       
-      <guid>https://renjij.github.io/tags/documentary-report/</guid>
+      <guid>https://renji.github.io/tags/documentary-report/</guid>
       <description></description>
     </item>
     

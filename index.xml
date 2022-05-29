@@ -6,10 +6,19 @@
     <description>Recent content on Renji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 May 2022 12:16:24 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 29 May 2022 20:36:24 +1200</lastBuildDate>
     
 	<atom:link href="https://renjij.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>This is Auckland</title>
+      <link>https://renjij.github.io/posts/auckland/</link>
+      <pubDate>Sun, 29 May 2022 20:36:24 +1200</pubDate>
+      
+      <guid>https://renjij.github.io/posts/auckland/</guid>
+      <description>&lt;p&gt;《Pretend It’s a City》里，Martin问Fran为什么人们来纽约。Fran说：This is New York. 要问我为什么来奥克兰，我也会说： This is Auckland.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>咸菜</title>

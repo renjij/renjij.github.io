@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Renji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Oct 2022 22:06:24 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 20 Nov 2022 21:00:24 +1200</lastBuildDate>
     
 	<atom:link href="https://renjij.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Film</title>
+      <link>https://renjij.github.io/tags/film/</link>
+      <pubDate>Sun, 20 Nov 2022 21:00:24 +1200</pubDate>
+      
+      <guid>https://renjij.github.io/tags/film/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Random Thoughts</title>

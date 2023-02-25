@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading on Renji</title>
+    <link>https://renjij.github.io/tags/reading/</link>
+    <description>Recent content in Reading on Renji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Feb 2023 21:16:24 +1200</lastBuildDate>
+    
+	<atom:link href="https://renjij.github.io/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clippings 2022</title>
+      <link>https://renjij.github.io/posts/2022clippings/</link>
+      <pubDate>Fri, 17 Feb 2023 21:16:24 +1200</pubDate>
+      
+      <guid>https://renjij.github.io/posts/2022clippings/</guid>
+      <description>&lt;p&gt;Renji_1: 好久不见！新年快乐！&lt;/p&gt;
+&lt;p&gt;Renji_2: 新年快乐！啊，不知不觉2023了，感觉还活在2022。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Renji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Jan 2023 21:16:24 +1200</lastBuildDate>
+    <lastBuildDate>Sat, 25 Feb 2023 23:16:24 +1200</lastBuildDate>
     
 	<atom:link href="https://renjij.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>Personal Life</title>
       <link>https://renjij.github.io/tags/personal-life/</link>
-      <pubDate>Tue, 03 Jan 2023 21:16:24 +1200</pubDate>
+      <pubDate>Sat, 25 Feb 2023 23:16:24 +1200</pubDate>
       
       <guid>https://renjij.github.io/tags/personal-life/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Reading</title>
+      <link>https://renjij.github.io/tags/reading/</link>
+      <pubDate>Fri, 17 Feb 2023 21:16:24 +1200</pubDate>
+      
+      <guid>https://renjij.github.io/tags/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Review</title>
       <link>https://renjij.github.io/tags/review/</link>
-      <pubDate>Tue, 03 Jan 2023 21:16:24 +1200</pubDate>
+      <pubDate>Fri, 17 Feb 2023 21:16:24 +1200</pubDate>
       
       <guid>https://renjij.github.io/tags/review/</guid>
       <description></description>
